@@ -18,12 +18,12 @@ logger.setLevel(logging.DEBUG)
 # Now using a new TikTok library https://github.com/Russell-Newton/TikTokPy
 
 # Normal GitHub Pages URL
-# ghPagesURL = "https://conoro.github.io/tiktok-rss-flat/"
+# ghPagesURL = "https://iamjedi888.github.io/tiktok-rss-flat/"
 
 # Custom Domain
-ghPagesURL = "https://tiktokrss.conoroneill.com/"
+ghPagesURL = "https://iamjedi888.github.io/tikky-rss-flat/"
 
-maxItems = 5
+maxItems = 8
 
 
 def run(csvuser):
@@ -31,10 +31,10 @@ def run(csvuser):
         fg = FeedGenerator()
         fg.id('https://tiktok.com/@' + csvuser)
         fg.title(csvuser + ' TikTok')
-        fg.author( {'name':'Conor ONeill','email':'conor@conoroneill.com'} )
+        fg.author( {'name':'OxENV Records','email':'Xinc@Cyber-wizard.com'} )
         fg.link( href='http://tiktok.com', rel='alternate' )
         fg.logo(ghPagesURL + 'tiktok-rss.png')
-        fg.subtitle('OK Boomer, all the latest TikToks from ' + csvuser)
+        fg.subtitle('incoming, All the latest TikToks from ' + csvuser)
         fg.link( href=ghPagesURL + 'rss/' + csvuser + '.xml', rel='self' )
         fg.language('en')
 
