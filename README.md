@@ -11,7 +11,7 @@
 * To get your own instance running
     * Fork this repo 
     * Enable GitHub Pages for your new repo
-    * Change the `ghPagesURL` in postprocessing.py from "https://conoro.github.io/tiktok-rss-flat/" to your URL
+    * Change the `ghPagesURL` in postprocessing.py from "["](https://iamjedi888.github.io/tikky-rss-flat/) to your URL
     * Add the TikTok usernames that you like to subscriptions.csv
     * Make sure to enable Actions in the Actions tab 
 
@@ -26,7 +26,7 @@
 
 Logo was created using the TikTok and RSS [Font Awesome](https://fontawesome.com/license/free) icons via CC BY 4.0 License
 
-Copyright Conor O'Neill, 2021 (conor@conoroneill.com)
+Copyright © Oxenv Records, X inc., CyberWizard, Enterpise  (tiktok.com/@oxenvrecords.com)
 
 License Apache 2.0
 
