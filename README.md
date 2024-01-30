@@ -11,7 +11,7 @@
 * To get your own instance running
     * Fork this repo 
     * Enable GitHub Pages for your new repo
-    * Change the `ghPagesURL` in postprocessing.py from "["](https://iamjedi888.github.io/tikky-rss-flat/) to your URL
+    * Change the `ghPagesURL` in postprocessing.py from "https://iamjedi888.github.io/tikky-rss-flat/" to your URL
     * Add the TikTok usernames that you like to subscriptions.csv
     * Make sure to enable Actions in the Actions tab 
 
