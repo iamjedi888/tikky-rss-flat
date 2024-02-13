@@ -9,7 +9,7 @@
     <email>xinc@cyber-wizard.com</email>
   </author>
   <link href="http://tiktok.com" rel="alternate"/>
-  <link href="https://iamjedi888.github.io/tikky-rss-flat/rss/iamjedi888.xml" rel="self"/>
+  <link href="https://iamjedi888.github.com/tikky-rss-flat/rss/iamjedi888.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
   <subtitle>OK, all the latest TikToks from OxENV Records</subtitle>
