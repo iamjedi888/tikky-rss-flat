@@ -1,10 +1,13 @@
-2024-12-19 11:21:27,221 Using selector: EpollSelector
-2024-12-19 11:23:29,529 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-12-19 11:23:29,529 Using selector: EpollSelector
-2024-12-19 11:25:31,849 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-12-19 11:25:31,849 Using selector: EpollSelector
-2024-12-19 11:27:34,054 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-12-19 11:27:34,055 Using selector: EpollSelector
-2024-12-19 11:29:36,664 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2024-12-19 11:29:36,664 Using selector: EpollSelector
-2024-12-19 11:31:39,172 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-12-19 12:51:08,805 Using selector: EpollSelector
+2024-12-19 12:53:11,166 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-12-19 12:53:11,166 Using selector: EpollSelector
+2024-12-19 12:53:18,691 Error: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.tiktok.com/@nfl
+Call log:
+  - navigating to "https://www.tiktok.com/@nfl", waiting until "load"
+
+2024-12-19 12:53:18,691 Using selector: EpollSelector
+2024-12-19 12:55:25,260 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-12-19 12:55:25,260 Using selector: EpollSelector
+2024-12-19 12:57:27,560 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-12-19 12:57:27,561 Using selector: EpollSelector
+2024-12-19 12:59:29,911 Error: Data scraping unable to complete in 60.0s (retries: 3)
