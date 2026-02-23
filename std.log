@@ -1,13 +1,10 @@
-2026-02-23 14:59:54,020 Using selector: EpollSelector
-2026-02-23 14:59:56,373 Error: Page.goto: net::ERR_NETWORK_CHANGED at https://www.tiktok.com/@nytimes
-Call log:
-  - navigating to "https://www.tiktok.com/@nytimes", waiting until "load"
-
-2026-02-23 14:59:56,373 Using selector: EpollSelector
-2026-02-23 15:01:58,595 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2026-02-23 15:01:58,595 Using selector: EpollSelector
-2026-02-23 15:04:00,915 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2026-02-23 15:04:00,916 Using selector: EpollSelector
-2026-02-23 15:06:03,156 Error: Data scraping unable to complete in 60.0s (retries: 3)
-2026-02-23 15:06:03,157 Using selector: EpollSelector
-2026-02-23 15:08:05,478 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2026-02-23 15:56:58,622 Using selector: EpollSelector
+2026-02-23 15:59:01,065 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2026-02-23 15:59:01,066 Using selector: EpollSelector
+2026-02-23 16:01:03,157 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2026-02-23 16:01:03,157 Using selector: EpollSelector
+2026-02-23 16:03:05,496 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2026-02-23 16:03:05,497 Using selector: EpollSelector
+2026-02-23 16:05:07,701 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2026-02-23 16:05:07,701 Using selector: EpollSelector
+2026-02-23 16:07:10,042 Error: Data scraping unable to complete in 60.0s (retries: 3)
